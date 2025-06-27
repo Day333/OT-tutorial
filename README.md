@@ -11,6 +11,7 @@
   - coderlemon 博客：https://coderlemon17.github.io/posts/2022/07-16-ot/  
   - YouTube 教学：https://www.youtube.com/watch?v=kjOBJP7gglw&list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl  
   - Notes on Optimal Transport: https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/#notes_on_optimal_transport
+  - 最优传输理论【顾险峰】：https://www.bilibili.com/video/BV18A41157B4?utm_source=chatgpt.com&vd_source=6ce655c8e0d4d295b796bcdde58e0875&spm_id_from=333.788.videopod.episodes
   - 文献1: Peyré, Gabriel, and Marco Cuturi. "Computational optimal transport: With applications to data science." Foundations and Trends® in Machine Learning 11.5-6 (2019): 355-607.
   - 文献2: Séjourné, Thibault, Gabriel Peyré, and François-Xavier Vialard. "Unbalanced optimal transport, from theory to numerics." Handbook of Numerical Analysis 24 (2023): 407-471.
 
