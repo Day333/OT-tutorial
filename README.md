@@ -10,6 +10,7 @@
 - 参考资料：  
   - coderlemon 博客：https://coderlemon17.github.io/posts/2022/07-16-ot/  
   - YouTube 教学：https://www.youtube.com/watch?v=kjOBJP7gglw&list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl  
+  - Notes on Optimal Transport: https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/#notes_on_optimal_transport
   - 文献1: Peyré, Gabriel, and Marco Cuturi. "Computational optimal transport: With applications to data science." Foundations and Trends® in Machine Learning 11.5-6 (2019): 355-607.
   - 文献2: Séjourné, Thibault, Gabriel Peyré, and François-Xavier Vialard. "Unbalanced optimal transport, from theory to numerics." Handbook of Numerical Analysis 24 (2023): 407-471.
 
@@ -17,11 +18,7 @@
 
 ## 📚 教程大纲
 
-0. 引言：大海的聚会
-  1.1 OT 是什么？为什么重要？  
-  1.2 从 Monge 问题到 Kantorovich 放松  
-  1.3 Wasserstein 距离的几何意义与直观理解  
-  📓 Notebook：用 `scipy.optimize` 实现基础 OT 问题
+0. 引言：大海的聚会 🌊
 
 1. 第一章：OT 起源与基础直觉  
   1.1 OT 是什么？为什么重要？  
